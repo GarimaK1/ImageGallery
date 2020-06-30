@@ -1,3 +1,5 @@
-Learnt to build modal using HTML, CSS and Javascript
+## Image Gallery
 
-Fluid and responsive content without flex
+### Built modal using only HTML, CSS and Javascript
+
+### Fluid and responsive content without flex using grid
